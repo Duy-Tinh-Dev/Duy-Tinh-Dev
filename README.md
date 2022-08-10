@@ -1,6 +1,6 @@
 <!-- profile -->
 <a href="#" target="_blank">
-  <img src="svg/profile.svg" width="1200" alt="profile-official" />
+  <img src="svg/DuyTinhDev.svg" width="1200" alt="profile-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
