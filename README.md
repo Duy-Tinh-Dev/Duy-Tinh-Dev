@@ -1,20 +1,20 @@
-<!-- profile -->
-<a href="#" target="_blank">
-  <img src="svg/DuyTinhDev.svg" width="1200" alt="profile-official" />
-</a>
-
+# Hi there, I'm Duy Tinh :hand:
+<div align="center">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyTinh2003&layout=compact" width="1200" alt="image card layout" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DuyTinh2003&show_icons=true&theme=radical" width="1200" alt="image cart point" />
+</div>
+<br clear="left">
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyTinh2003)](https://github.com/anuraghazra/github-readme-stats)</span>
-&nbsp;
 
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+	
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 
 <!-- redux -->
-<!-- <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp; -->
+<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+&nbsp;
 <!-- vue -->
 <!-- <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp; -->
@@ -64,14 +64,6 @@
 &nbsp; -->
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  
-</div>
-
-<br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
@@ -93,5 +85,4 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
-
 <br>
