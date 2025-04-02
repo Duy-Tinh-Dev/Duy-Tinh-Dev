@@ -1,4 +1,4 @@
-# Hi there, I'm Duy Tinh :hand:
+# Hi there, I'm Duy Tinh (Tyler Tran) :hand:
 <div align="center">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duy-Tinh-Dev&layout=compact" width="1200" alt="image card layout" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Duy-Tinh-Dev&show_icons=true&theme=radical" width="1200" alt="image cart point" />
